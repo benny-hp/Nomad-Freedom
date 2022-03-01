@@ -4,7 +4,7 @@ I'm Benny Hernandez a Full Stack Web Developer. I Spend most of time coding proj
 
 :mailbox: Reach out to me!
 
-[![Web Badge](https://img.shields.io/badge/-bennyhernandez.com-FF7139?style=flat&labelColor=&logo=firefox&logoColor=white&link=https://bennyhernandez.com)](https://bennyhernandez.com) [![Linkedin Badge](https://img.shields.io/badge/-Benny-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/islem-maboud/) [![Mail Badge](https://img.shields.io/badge/-inquiry-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:inquiry@bennyhernandez.com)
+[![Web Badge](https://img.shields.io/badge/-bennyhernandez.com-FF7139?style=flat&labelColor=&logo=firefox&logoColor=white&link=https://bennyhernandez.com)](https://bennyhernandez.com) [![Linkedin Badge](https://img.shields.io/badge/-Benny-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benny-hernandez) [![Mail Badge](https://img.shields.io/badge/-inquiry-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:inquiry@bennyhernandez.com)
 
 <!-- TODO: Add last video link -->
 
