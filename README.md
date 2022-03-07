@@ -20,7 +20,7 @@ I'm Benny Hernandez a Full Stack Web Developer. I Spend most of time coding proj
 
 #### Business
 
-- :paperclip: [My Resume/CV]()
+- :paperclip: [My Resume/CV](https://github.com/Nomad-Freedom/Nomad-Freedom/blob/main/resume/resume.pdf)
 - :email: inquiry@bennyhernandez.com
 
 #### More stuff about me
